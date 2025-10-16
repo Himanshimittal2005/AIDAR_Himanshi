@@ -1,0 +1,30 @@
+# Core ML/AI libraries
+numpy
+pandas
+scikit-learn
+xgboost
+tensorflow
+keras
+joblib
+
+# NLP & Transformers
+transformers
+langdetect
+sentencepiece
+gtts
+
+# Streamlit Web App
+streamlit
+streamlit-folium
+
+# Image + Audio
+Pillow
+pydub
+
+# Geospatial Visualization
+folium
+geopandas
+shapely
+
+
+

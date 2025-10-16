@@ -1,0 +1,10 @@
+__pycache__/
+*.pkl
+*.h5
+*.mp3
+*.csv
+*.geojson
+*.pdf
+.vscode/
+.DS_Store
+
